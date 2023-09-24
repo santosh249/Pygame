@@ -3,11 +3,6 @@
 
 A Flappy Bird Clone made using [python-pygame][pygame]
 
-> If you are in interested in the old one-file code for the game, you can [find it here][one-file-game]
-
-[pygame]: http://www.pygame.org
-[one-file-game]: https://github.com/sourabhv/FlapPyBird/blob/038359dc6122f8d851e816ddb3e7d28229d585e5/flappy.py
-
 
 Setup (as tested on MacOS)
 ---------------------------
@@ -29,9 +24,6 @@ Notable forks
 - [FlappyBird Model Predictive Control](https://github.com/philzook58/FlapPyBird-MPC)
 - [FlappyBird OpenFrameworks Port](https://github.com/TheLogicMaster/ofFlappyBird)
 - [FlappyBird On Quantum Computing](https://github.com/WingCode/QuFlapPyBird)
-
-Made something awesome from FlapPyBird? Add it to the list :)
-
 
 Demo
 ----------
